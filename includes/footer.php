@@ -10,10 +10,7 @@
 	<script type="text/javascript" src="assets/plugins/datatables/datatables.min.js"></script>
 
 
-<div class="footer-copyright text-center">
-        © 2018
-        <a href="#"> Reliance Store. Designed by Rabindra Lamsal.</a>
-    </div>
+
 
 </body>
 </html>
